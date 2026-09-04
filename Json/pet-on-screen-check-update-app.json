@@ -2,11 +2,11 @@
   "data": {
     "app_info": [
       {
-        "what_news": "-Update pets\n-Add set Wallpaper\n-Add edit dialog Accessibility\n-Bug fixeds",
+        "what_news": "-Bug fixeds",
         "force_update": "true",
         "package_name": "com.bigsoft.desktoppet.petonscreen",
-        "version_code": 20,
-        "version_name": "2.9",
+        "version_code": 26,
+        "version_name": "3.5",
         "new_package_name": "com.bigsoft.desktoppet.petonscreen"
       }
     ]
